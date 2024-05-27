@@ -1,0 +1,5 @@
+export const formetDate=(date,config)=>{
+const defaultOptions={day:'numeric',month:'short',year:'numeric'}
+const options=config?config:defaultOptions
+return new Date(date).toLocaleDateString('en-IN',options)
+}
