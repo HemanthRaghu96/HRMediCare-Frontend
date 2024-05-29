@@ -6,7 +6,7 @@ For all the individual API i made CRUD operation too like add,edit,view selected
 I have used Express,mongoose,bcryptjs,jsonwebtoken,nodemailer,mongodb.
 Kindly view the API documentation for more detailes.
 
-Backend Server link :  \
+Backend Server link :  https://hrmedicare.netlify.app/\
 API documentation : https://documenter.getpostman.com/view/32014275/2sA3QteWtx
 
 This project is open scorce, 🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩
