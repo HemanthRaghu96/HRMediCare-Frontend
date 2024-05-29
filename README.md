@@ -1,9 +1,9 @@
 # HRMediCare Application Frontend
 
-For HRMediCare  Application I have made an custom API.
-Some of API are for Users ,Doctors ,Review ,Booking,
-For all the individual API i made CRUD operation too like add,edit,view selected data,delete.
-I have used reactjs,react-router-dom,react-spinners,react-toastify,tailwindcss,swiper.
+For HRMediCare  Application I have made an custom API. \
+Some of API are for Users ,Doctors ,Review ,Booking. \
+For all the individual API i made CRUD operation too like add,edit,view selected data,delete. \
+I have used reactjs,react-router-dom,react-spinners,react-toastify,tailwindcss,swiper. \
 Kindly view the API documentation for more detailes.
 
 Backend Server link :  https://hrmedicare.netlify.app/ \
